@@ -15,16 +15,3 @@ appExpress.listen(3333);
 
 
 
-/*
- mongoose.connect(
-'mongodb+srv://cluster0-m2bvq.mongodb.net/test?retryWrites=true&w=majority/',
-{
-    dbName: 'minhabase',
-    user: 'deploy2',
-    pass: 'deploy2123',
-    useNewUrlParser: true, 
-    useUnifiedTopology: true
-})
-
-.then(  () => console.log('Connected to MongoDB') )
-*/
